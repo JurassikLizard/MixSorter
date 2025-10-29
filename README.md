@@ -5,6 +5,9 @@ A smart Spotify playlist organizer that arranges tracks using **harmonic mixing*
 REQUIRES  Spotify developer app with callback url to http://127.0.0.1:callback
 (look up/ask an LLM how to do this)
 
+## Dependencies
+- Spotipy package (install it)
+
 ## Features
 
 - 🎵 **Harmonic compatibility** - Uses Camelot key notation for musical transitions
